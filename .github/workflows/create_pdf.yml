@@ -10,7 +10,10 @@ jobs:
         run: sudo apt-get install  pandoc texlive-latex-recommended texlive-xetex texlive-luatex pandoc-citeproc texlive-latex-extra context wkhtmltopdf librsvg2-bin groff ghc nodejs python2
             libjs-mathjax libjs-katex citation-style-language-styles
       - name: Compile document with pandoc
-        run: pandoc chronologie_teil1.md -o chronologie_teil1.pdf
+        run: |
+          ls
+          pwd
+          pandoc chronologie_teil1.md -o chronologie_teil1.pdf
       - name: Upload pdf
         uses: actions/upload-artifact@v4
         with:
