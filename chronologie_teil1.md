@@ -1,6 +1,7 @@
 **Chronik der bisherigen Ereignisse, Teil 1 (bis 08. Efferd 35 Hal)**
 
 **16. Peraine 34 Hal**
+
 Ein Untotenheer unter Rhazzazors Führung (vor Tageslicht geschützt 
 durch eine dämonische Wolke) durchbricht die Ogermauer und überrennt die
 Verteidiger. Von hier aus nimmt es Kurs auf Gareth. Das Mittelreich
@@ -15,6 +16,7 @@ angereist sind, der alle 7 Jahre stattfindet und am 20. Peraine in
 Gareth beginnen soll.
 
 **19. Peraine 34 Hal**
+
 Ihr trefft euch im *Schwert und Panzer*. Im Laufe des Tages verbreitet
 sich die Nachricht vom Überfall Rhazzazors auf das Mittelreich sowie die
 Info, dass im Namen der Königin und der Reichsbehüterin Truppen
@@ -25,11 +27,13 @@ zieht nicht mit Rohaja nach Wehrheim, sondern helft, Gareth zu bewachen.
 Danach bezieht ihr Quartier im Gasthaus *Schwert und Panzer* in Gareth.
 
 **20. Peraine 34 Hal**
+
 Auszug von knapp 1000 Kämpfern unter Führung von Rohaja von Gareth,
 Dexter Nemrod, Reichserzmarschall Leomar vom Berg und Hofmagierin
 Racalla von Horsen-Rabenmund.
 
 **20.-23. Peraine 34 Hal**
+
 Ihr wartet ab und recherchiert in Gareth. In der Magierschaft gibt es
 verschiedene Haltungen zum Umgang mit dem Angriff Rhazzazors und zur
 Frage, ob der Konvent abgehalten werden soll. Eldaria beobachtet eine 
@@ -49,6 +53,7 @@ den Stand der Lage ins *Schwert und Panzer*, wo ihr inzwischen die
 einzigen Gäste seid.
 
 **24. Peraine 34 Hal**
+
 Die Schlacht von Wehrheim findet statt, über deren Verlauf und Ende
 Racalla von Horsen-Rabenmund den zweiten Hofmagier Melwyn Stoerrebrandt
 (in Gareth verblieben) mittels magischer Informationsübermittlung auf
@@ -108,6 +113,7 @@ denn wenn Gareth fällt, gibt es ihrer Ansicht nach keinen sicheren
 Zufluchtsort mehr.
 
 **25. Peraine 34 Hal**
+
 Eldaria sendet ein magisches geflügeltes Pferd auf intersphärischem Weg
 nach Wehrheim zu Aufklärungszwecken. Es wird nicht entdeckt, kann aber
 nur begrenzt nah an die fliegende Stadt herankommen. Diese bewegt sich
@@ -499,6 +505,7 @@ Nach Rückkehr ins *Schwert und Panzer* beginnt Thorben mit dem
 Aktenstudium.
 
 **26. Peraine 34 Hal**
+
 Thorben referiert am frühen Morgen aus den gesichteten KGIA-Akten über
 potentiell unzuverlässige Personen -- es ergibt sich daraus aber kein
 klarer Verdacht. Ihr fragt euch, warum es keine Akte zu Trautmann
