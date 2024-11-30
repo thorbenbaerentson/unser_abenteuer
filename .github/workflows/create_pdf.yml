@@ -6,6 +6,8 @@ jobs:
   run_pandoc:
     runs-on: ubuntu-22.04
     steps:
+      - name: Install pandoc
+        run: apt-get install pandoc
       - name: Compile document with pandoc
         run: pandoc -c chronologie_teil1.md -o chronologie_teil1.pdf
       - name: Upload pdf
