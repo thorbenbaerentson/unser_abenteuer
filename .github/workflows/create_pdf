@@ -1,0 +1,15 @@
+name: Compile
+
+on: push
+
+jobs:
+  run_pandoc:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Compile document with pandoc
+        run: pandoc -c chronologie_teil1.md -o chronologie_teil1.pdf
+      - name: Upload pdf
+        uses: actions/upload-artifact@v4
+        with:
+          name: chronologie_teil1.pdf
+          path: chronologie_teil1.pdf
