@@ -1,13 +1,12 @@
 **Chronik der bisherigen Ereignisse, Teil 1 (bis 08. Efferd 35 Hal)**
 
 **16. Peraine 34 Hal**
-
-Ein Untoten-Heer unter Rhazzazors Führung (vor Tageslicht geschützt
+Ein Untotenheer unter Rhazzazors Führung (vor Tageslicht geschützt 
 durch eine dämonische Wolke) durchbricht die Ogermauer und überrennt die
 Verteidiger. Von hier aus nimmt es Kurs auf Gareth. Das Mittelreich
 zieht in der Folge in höchster Eile seine Truppen soweit wie möglich in
 Wehrheim zusammen und hebt dazu auch notdürftig Freiwilligenverbände
-aus. Ziel lautet, die Entscheidungsschlacht vor Wehrheim zu forcieren.
+aus. Das Ziel lautet, die Entscheidungsschlacht vor Wehrheim zu forcieren.
 Die mittelreichischen Truppen sollen dabei von der jungen Königin Rohaja
 (zusammen mit Reichserzmarschall Leomar vom Berg und Dexter Nemrod u.a.)
 angeführt werden. Man hofft auch auf tatkräftige Unterstützung durch
@@ -16,7 +15,6 @@ angereist sind, der alle 7 Jahre stattfindet und am 20. Peraine in
 Gareth beginnen soll.
 
 **19. Peraine 34 Hal**
-
 Ihr trefft euch im *Schwert und Panzer*. Im Laufe des Tages verbreitet
 sich die Nachricht vom Überfall Rhazzazors auf das Mittelreich sowie die
 Info, dass im Namen der Königin und der Reichsbehüterin Truppen
@@ -27,33 +25,30 @@ zieht nicht mit Rohaja nach Wehrheim, sondern helft, Gareth zu bewachen.
 Danach bezieht ihr Quartier im Gasthaus *Schwert und Panzer* in Gareth.
 
 **20. Peraine 34 Hal**
-
 Auszug von knapp 1000 Kämpfern unter Führung von Rohaja von Gareth,
 Dexter Nemrod, Reichserzmarschall Leomar vom Berg und Hofmagierin
 Racalla von Horsen-Rabenmund.
 
 **20.-23. Peraine 34 Hal**
-
-Abwarten und Recherchieren in Gareth. In der Magierschaft gibt es
+Ihr wartet ab und recherchiert in Gareth. In der Magierschaft gibt es
 verschiedene Haltungen zum Umgang mit dem Angriff Rhazzazors und zur
-Frage, ob der Konvent abgehalten werden soll. Hitzige Diskussion der
-Gildenvorsteher, von Eldaria beobachtet. Nach Gespräch mit Emer erfahrt
+Frage, ob der Konvent abgehalten werden soll. Eldaria beobachtet eine 
+hitzige Diskussion der Gildenvorsteher. Nach Gespräch mit Emer erfahrt
 ihr, dass die Praioskirche in Gareth sich seit dem abgebrochenen
 Orakelspruch am 01. Praios 34 Hal (siehe extra Dokument) vor allem mit
 Kontemplation und Reflexion beschäftigt, und dass einige das drohende
 Ende der Kirche aus dem Orakel herauslesen.
 
-Der Magier-Konvent wird am 21. Peraine eröffnet und sofort für drei Tage
+Der Magierkonvent wird am 21. Peraine eröffnet und sofort für drei Tage
 pausiert, was zu Tumulten führt. Die Weißmagier und einige Graumagier
 machen sich sofort auf den Weg nach Wehrheim. Einige Magier reisen in
-andere Richtung aus Gareth ab, der große Teil des Rests bleibt aber, um
-die Zeit in Gareth für inoffizielle Diskussionen und Kolloquien etc. zu
-nutzen. Emer schickt euch regelmäßig Informationen über den Stand der
-Lage ins *Schwert und Panzer*, wo ihr inzwischen die einzigen Gäste
-seid.
+andere Richtungen aus Gareth ab, der große Teil bleibt aber, um
+die Zeit in Gareth für inoffizielle Diskussionen, Kolloquien und 
+dergleichen zu nutzen. Emer schickt euch regelmäßig Informationen über
+den Stand der Lage ins *Schwert und Panzer*, wo ihr inzwischen die 
+einzigen Gäste seid.
 
 **24. Peraine 34 Hal**
-
 Die Schlacht von Wehrheim findet statt, über deren Verlauf und Ende
 Racalla von Horsen-Rabenmund den zweiten Hofmagier Melwyn Stoerrebrandt
 (in Gareth verblieben) mittels magischer Informationsübermittlung auf
@@ -65,14 +60,14 @@ mit:
     Untoten vor dem Tageslicht schützte, vernichtet werden. Rhazazzors
     Untotenheer ist vernichtet.
 
--   Die dämonische Wolke verbarg eine fliegende Stadt von ung. 1 Meile
-    Durchmesser, von der aus ein dämonisches Ritual ausging, das Melwyn
-    Stoerrebrandt als "erzdämonisches Opus Magnus" bezeichnet, und das
+-   Die dämonische Wolke verbarg eine fliegende Stadt von ungefähr 1 Meile
+    Durchmesser, von der aus ein dämonisches Ritual ausging. Melwyn
+    Stoerrebrandt bezeichnete es als "erzdämonisches Opus Magnus", das
     sich als Pervertierung der Elemente Humus, Feuer, Luft und Erz in
     breitem Umkreis auswirkte. Wehrheim und die anwesenden kaiserlichen
     Truppen scheinen hierdurch vernichtet worden zu sein.
 
-Emer geht fest davon aus, dass ein derart wahnsinniges magisches
+Emer geht fest davon aus, dass ein derart wahnsinniges, magisches
 Konstrukt nur von Galotta in Yol-Ghurmak angefertigt worden sein kann.
 Sie ist überzeugt, dass die Festung sich ab nun in Richtung von Gareth
 bewegen wird, und dass Rhazzazor auch ohne eigenes Heer den Angriff
@@ -89,29 +84,30 @@ auch erstmals kurz die fliegende Festung erblicken.
 
 Emer bittet euch um Hilfe bei dem Versuch, Gareth, das Mittelreich und
 den Kaiserthron zu verteidigen und Rohaja zu finden. Ihr verbleibt im
-*Schwert und Panzer,* das jetzt als euer Hauptquartier fungiert,
-zusammen mit einer Handvoll Panther-Gardisten (Leibgarde der
-Kaiserfamilie) und diversen verborgenen KGIA-Agenten als Leibwache.
+*Schwert und Panzer,* zusammen mit einer Handvoll Panther-Gardisten 
+(Leibgarde der Kaiserfamilie) und diversen verborgenen KGIA-Agenten als 
+Leibwache. Das *Schwert und Panzer* fungiert jetzt als euer Hauptquartier.
 
 Noch in der Nacht werden zahlreiche Strategie-Besprechungen innerhalb
 der Gruppe durchgeführt. Torben wird durch Emer zum kommissarischen
 Leiter der KGIA in Abwesenheit von Dexter Nemrod ernannt und beginnt
 über Mittelsmann *Agent Sperber* sofort mit der Arbeit. Vier Agenten
 werden nach Wehrheim zwecks profaner Aufklärungsarbeit beordert.
-(Geplante Rückkehr in spätestens 18 Stunden, Ziel: Agenten vor Ort
+(Geplante Rückkehr in spätestens 18 Stunden. Ziel: Agenten vor Ort
 finden, die in Begleitung von Dexter Nemrod waren; idealerweise retten,
 Priorität hat aber Infos einholen.) Zudem wird über die Panthergarde
 eine Liste aller zur Verfügung stehenden militärischen Abwehrmaßnahmen
 beordert und für den nächsten Morgen eine gemeinsame Lagebesprechung mit
-Emer in der Neuen Residenz vereinbart. Eine unsichtbare Erkundungstour
-von Eldaria in die Neue Residenz führt zu einem belauschten
-Streitgespräch zwischen Emer und Reichskanzler Hartuwal vom Großen
-Fluss, in dem dieser Emer zur Flucht nach Elenvina rät, wo bald der
-Große Reichskongress beginnt. Emer lehnt vehement ab, denn wenn Gareth
-fällt, gibt es ihrer Ansicht nach keinen sicheren Zufluchtsort mehr.
+Emer in der Neuen Residenz vereinbart. 
+
+Eine unsichtbare Erkundungstour von Eldaria in die Neue Residenz führt 
+zu einem belauschten Streitgespräch zwischen Emer und Reichskanzler 
+Hartuwal vom Großen Fluss, in dem dieser Emer zur Flucht nach Elenvina 
+rät, wo bald der Große Reichskongress beginnt. Emer lehnt vehement ab, 
+denn wenn Gareth fällt, gibt es ihrer Ansicht nach keinen sicheren 
+Zufluchtsort mehr.
 
 **25. Peraine 34 Hal**
-
 Eldaria sendet ein magisches geflügeltes Pferd auf intersphärischem Weg
 nach Wehrheim zu Aufklärungszwecken. Es wird nicht entdeckt, kann aber
 nur begrenzt nah an die fliegende Stadt herankommen. Diese bewegt sich
@@ -131,19 +127,21 @@ den Einsätzen in Transysilien oder der Warunkei gibt, die in der
 fliegenden Stadt sein könnten.
 
 Die Lagebesprechung in der Neuen Residenz findet im Ulmenkabinett statt
--- einem komplett in Ulmenholz getäfelten Raum mit dem *Auge des
-Morgens*, einem Schwarzen Auge. Anwesend sind neben Emer und euch:
-*Thorn Eisinger* (legendärer Meisterschmied), *Ludalf von Wertlingen*
-(Marschall des Reiches und aktuell Vertretung des verschollenen
-Reichserzmarschalls Leomar), Magister *Melwyn Stoerrebrandt*
-(inzwischen 1. Hofmagier), *Tyros Prahe* (Hofalchimist), *Rondrigan
-Paligan* (Graf von Perricum und enger Vertrauter Rohajas). Über Emer
-veranlasst ihr, dass Rondrigan Paligan eine weitreichende Evakuierung
+-- einem komplett in Ulmenholz getäfelten Raum mit dem *Auge des Morgens*, 
+einem Schwarzen Auge. Anwesend sind neben Emer und euch:
+
+- *Thorn Eisinger* (legendärer Meisterschmied) 
+- *Ludalf von Wertlingen* (Marschall des Reiches und aktuell Vertretung des verschollenen Reichserzmarschalls Leomar)
+- Magister *Melwyn Stoerrebrandt* (inzwischen 1. Hofmagier)
+- *Tyros Prahe* (Hofalchimist)
+- *Rondrigan Paligan* (Graf von Perricum und enger Vertrauter Rohajas). 
+
+Über Emer veranlasst ihr, dass Rondrigan Paligan eine weitreichende Evakuierung
 des Korridors zwischen Wehrheim und Gareth veranlasst und Boten in
-umliegende Städte, Dörfer und Orte schickt, um verbleibendes
-waffenfähiges Volk nach Gareth zu beordern. Obwohl Melwyn eine Nutzung
-des Schwarzen Auges ausschließt, da hierfür nicht die relevante
-Sternenkonstellation gegeben ist, gelingt es Eldaria, das Schwarze Auge
+umliegende Städte, Dörfer und Orte schickt, um verbliebenes
+waffenfähiges Volk nach Gareth zu beordern. 
+Obwohl Melwyn eine Nutzung des Schwarzen Auges ausschließt, da hierfür nicht 
+die relevante Sternenkonstellation gegeben ist, gelingt es Eldaria, das Schwarze Auge
 zu aktivieren, über einen telepathischen Anker in Wehrheim auf der
 Fliegenden Stadt zu fokussieren und die übertragenen Bilder in den Raum
 zu projizieren, so dass eine detaillierte Betrachtung der fliegenden
@@ -188,14 +186,14 @@ weiteren Kinder:
     zugeneigt.
 
 Emers Fazit: "Meine älteste Tochter darf und kann regieren, will aber
-nicht. Meine zweitälteste will und kann regieren, darf aber nicht. Mein
+nicht. Meine Zweitälteste will und kann regieren, darf aber nicht. Mein
 Sohn darf und will regieren, kann aber nicht."
 
 Nicht zuletzt aus diesem Grund versucht ihr, Emer davon zu überzeugen,
 dass die Idee, sich allein mit Mut und Rondravertrauen Rhazzazor
 entgegenzustellen, nicht sonderlich gut ist. (Ihr Scheitern ist
-wahrscheinlich, und es gibt gerade niemanden, der außer ihr gut das
-Reich führen könnte.) Emer teilt euch mit, zur Mittagsstunde von der
+wahrscheinlich, und es gibt gerade niemanden, der außer ihr das
+Reich gut führen könnte.) Emer teilt euch mit, zur Mittagsstunde von der
 Alten Residenz aus eine Rede ans Volk halten zu wollen. Sie bittet um
 eure Anwesenheit und erfragt euren Rat, was sie dem Volk mitteilen
 sollte. Euer Rat: Nicht verschweigen, dass das Heer geschlagen wurde und
@@ -203,15 +201,14 @@ Wehrheim gefallen ist, aber auch betonen, dass Rhazzazors Untotenheer
 vernichtet wurde. Botschaft im Wesentlichen: Die erste Hälfte der
 Schlacht ist geschlagen, die Entscheidung fällt jetzt in Gareth.
 
-Weitere Vereinbarung: ab jetzt morgens und abends tägliche
+Daneben vereinbart ihr ab jetzt morgens und abends tägliche
 Lagebesprechungen mit den heute Anwesenden und ggf. weiteren Personen,
 die noch dazu geholt werden.
 
-Magische Analyse und Spionage: Hilko und Eldaria verbinden im
-Ulmenkabinett mittels Unitatio ihre magischen Kräfte und nutzen das
-Schwarze Auge für eine magische Analyse der Fliegenden Stadt sowie für
-Spionagezwecke, indem Hilko für eine Weile magisch durch die Augen eines
-Dämonenreiters blickt.
+Währenddessen verbinden Hilko und Eldaria im Ulmenkabinett mittels Unitatio 
+ihre magischen Kräfte und nutzen das Schwarze Auge für eine magische 
+Analyse der Fliegenden Stadt sowie für Spionagezwecke, indem Hilko für eine 
+Weile magisch durch die Augen eines Dämonenreiters blickt.
 
 Ergebnisse:
 
@@ -502,7 +499,6 @@ Nach Rückkehr ins *Schwert und Panzer* beginnt Thorben mit dem
 Aktenstudium.
 
 **26. Peraine 34 Hal**
-
 Thorben referiert am frühen Morgen aus den gesichteten KGIA-Akten über
 potentiell unzuverlässige Personen -- es ergibt sich daraus aber kein
 klarer Verdacht. Ihr fragt euch, warum es keine Akte zu Trautmann
@@ -580,7 +576,7 @@ Diesmal neu dabei: *Folmian Praiobur* (Vorsteher der *Priesterkaiser
 Noralec Sakrale,* dem größten Garether Praiostempel außerhalb der Stadt
 des Lichts).
 
-Besprochene Inhalte:
+*Besprochene Inhalte*:
 
 Folmian Praiobur berichtet, dass 50 der zugesagten Sonnenlegionäre der
 Stadt des Lichts eurem Kommando unterstellt werden, die restlichen 100
@@ -8691,10 +8687,9 @@ Eldaria ist jetzt endgültig im
 *Du-saugst-mich-hier-nicht-an-Todeselfen-Wutanfall-Modus* angekommen.
 Sie verpasst dem Seelensammler eine meisterliche Attacke mit dem Stab
 des Vergessens und verzichtet ab dann auf jede Form von Verteidigung,
-was zusammen mit ihrem Axxeleratus-Zauber zu einer sehr schnellen
+was zusammen mit ihrem Axxeleratuszauber zu einer sehr schnellen
 Abfolge von sehr schweren Attacken führt. Roban kümmert sich weiterhin
-erfolgreich um Eldarias Verteidigung (irgendwer muss das ja machen
-\...).
+erfolgreich um Eldarias Verteidigung (irgendwer muss das ja machen ...).
 
 Ihr spürt derweil allesamt eine unheilige Erschütterung des
 Sphärengefüges, könnt deren Auswirkungen auf euch jedoch widerstehen.
@@ -8821,32 +8816,3 @@ Geheimen agierende Widerstandsgruppe. Zu deren Stärke und Relevanz gibt
 es keine verlässlichen Einschätzungen, der letzte Eintrag in den Akten
 stammt von 33 Hal. Damit muss als unklar gelten, ob die Gruppe überhaupt
 noch existiert. Sie scheint sich vor allem mit Sabotage zu beschäftigen.
-
-**Aktuelle Ziele und Pläne:**
-
-Kurzfristig:
-
--   Zu Kräften kommen, die Ergebnisse der Schlacht auswerten, Tote
-    begraben, Verletzte heilen und neue Pläne schmieden.
-
-Mittelfristig:   
-
--   Nachschubwege über die Trollpforte abschneiden (= Unterstützung von
-    Rohajas Versuch, Rommilys zu befreien).  unklar, ob das noch
-    möglich ist
-
--   Eventuell: In die Schwarzen Lande nach Warunk reisen, dort mehr
-    Infos über Rhazzazors Pläne bekommen und Rhazzazors Pläne vor Ort
-    sabotieren (bspw. das Kaiserschwert *Silpion *zurückholen) 
-
--   herausfinden, was genau Emers Visionen bedeuten
-
-Langfristig:
-
--   Emer retten
-
--   das Reich auf den Kampf gegen *Rhazzazor *(und weitere Gegner?)
-    vorbereiten und diesen besiegen.
-
-**Aktuelle aventurische Zeit**: 08. Efferd (irdisch September), 35 Hal,
-spätabends (aber noch vor Mitternacht)
